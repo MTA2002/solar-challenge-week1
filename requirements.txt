@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn  # For Z-score and potential imputation/ANOVA/Kruskal-Wallis
+scipy         # For Z-score calculation, ANOVA/Kruskal-Wallis
+streamlit
